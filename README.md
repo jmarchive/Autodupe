@@ -1,4 +1,9 @@
 # Autodupe
+
+**Development Has Beed Stopped.**
+
+**开发已停止。**
+
 Automatically dupe items via chunky donkeys on 2B2T-like servers.
 
 ### WARNING : It is still in development! DO NOT USE IT IN THE REAL SERVER!
